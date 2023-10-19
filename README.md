@@ -1,5 +1,6 @@
 # Heart-Disease-Predictions-using-Supervised-Machine-Learning
 ![heart3](https://github.com/mobolajifalugba/Heart-Disease-Predictions-using-Supervised-Machine-Learning/assets/51162684/cdff61e3-a8e0-40a5-87e9-29437b73e8d8)
+
 This project employs various machine learning algorithms to build a predictive model. The goal is to assist in early diagnosis and risk assessment for heart disease, ultimately contributing to improved patient care.
 ## Key Features
 - **Data Exploration:** We dive into the dataset to understand the distribution of features, identify correlations, and explore patterns within the data.
